@@ -1,1 +1,1 @@
-miniZ.exe --par=144,5 --url=salad@us.mining.prohashing.com:3345 --pass=o=12db4913-1108-4138-adb9-5418f00576f6,n=12db4913-1108-4138-adb9-5418f00576f6 --show-shares --gpu-line --nocolor --quit-disconnect
+miniZ.exe --par=144,5 --url=salad@us.mining.prohashing.com:3345 --pass=o=12db4913-1108-4138-adb9-5418f00576f6,n=12db4913-1108-4138-adb9-5418f00576f6 --show-shares --gpu-line 
